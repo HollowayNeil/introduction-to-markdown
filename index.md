@@ -1,1 +1,2 @@
-# The Heading
+# The Gitgod
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
